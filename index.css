@@ -1,0 +1,45 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+h1 {
+    color: #003366;
+    font-size: 30px;
+}
+h2 {
+    color: #6f238f;
+    font-size: 18px; 
+}
+h5 {
+    color: #61561e;
+    font-size: 18px;
+}
+p {
+    color: #61561e;
+    font-size: 14px;
+    margin: 10px
+    padding: 5px;
+}
+.product-card {
+    background-color: #f2e6d9;
+    border: 6px solid #9c8a51;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+body {
+    background-color:#ffffff;
+}
+button {
+    background-color: #003366;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: 4px solid #6f238f;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #6f238f;
+    border-color: #003366;
+}
